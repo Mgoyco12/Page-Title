@@ -1,0 +1,21 @@
+.yeezus{
+ display:flex;
+}
+.kayne{
+    width:25%;
+}
+.pres{
+    width:25%;
+}
+.yay{
+    width:25%;
+}
+img{
+    width:300px;
+    border:solid red 20px;
+}
+.camp{
+    border:dotted blue 20px;
+    background-color:red;
+    color:white;
+}
