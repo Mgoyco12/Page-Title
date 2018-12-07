@@ -1,3 +1,8 @@
+.blow{
+  border-radius: 50% ;
+  position:center;
+  color:red;
+  width:50%;}
 .yeezus{
  display:flex;
 }
@@ -12,10 +17,16 @@
 }
 img{
     width:300px;
-    border:solid red 20px;
+    border:solid lightblue 20px;
 }
 .camp{
-    border:dotted blue 20px;
-    background-color:red;
+    border:dotted red 20px;
+    background-color:lightblue;
     color:white;
+}
+body{
+    background-image:url("http://vanderbiltpoliticalreview.com/wp-content/uploads/yeezy-389x389.jpg");
+}
+h2,h1,h3{
+    text-align:center;
 }
